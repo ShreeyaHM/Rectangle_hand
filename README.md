@@ -3,7 +3,7 @@
 # ✋ Hand-Gesture Controlled Content Generator  
 
 <u>Resizes the perimeter rectangle</u> using **hand gestures**,  
-while the content inside is generated dynamically with the 🤖 **Gemini API**.  
+while the content inside is generated dynamically with the  **Gemini API**.  
 
 ---
 
