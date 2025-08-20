@@ -16,9 +16,9 @@ while the content inside is generated dynamically with the 🤖 **Gemini API**.
 ---
 
 ## 🛠 Tech Stack  
-- **Python** 🐍  
-- **OpenCV** 🎥 (video processing)  
-- **MediaPipe** ✋ (hand tracking)  
-- **Google Gemini API** 🤖 (AI-generated content)  
+- **Python**  
+- **OpenCV**  (video processing)  
+- **MediaPipe**  (hand tracking)  
+- **Google Gemini API**  (AI-generated content)  
 
 
